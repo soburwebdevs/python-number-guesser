@@ -6,8 +6,8 @@ Welcome to the Number Guesser game! 🎉 Ready to challenge yourself? This simpl
 
 📚 Requirements
 
-Python 3.x installed on your machine 🐍
-A terminal to run the script
+1. Python 3.x installed on your machine 🐍
+2. A terminal to run the script
 
 
 
